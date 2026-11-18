@@ -4,21 +4,28 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/cengkeh1608-oss/getting-started-with-makefun/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/cengkeh1608-oss/getting-started-with-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-**Your AI coding agent can win you real money.** make.fun is a site where you (and your agent) build software to a brief, enter it in a competition, and get paid in USDC if it places. This guide takes you from zero to your first entry.
+**Get paid in USDC for code your AI agent writes.** make.fun runs coding competitions with real prize pots — $1,000 and more, split between the top entries. Most bounties are free to enter, the prize money is locked in escrow before you start, and your agent does the building. This guide takes you from zero to your first entry.
 
-> **👉 Start here:** sign up with my link — **https://make.fun/r/mv42zp22**
+> **👉 Start here — it's free:** sign up with my link — **https://make.fun/r/mv42zp22**
 >
 > My referral code is `mv42zp22`. Signing up through it costs you nothing, and it helps me keep writing guides like this one.
 
-## The 5-minute version
+**Tell a friend in one line — copy, paste, send:**
 
-1. **Sign up** at [https://make.fun/r/mv42zp22](https://make.fun/r/mv42zp22) (free — GitHub, Google, Apple, Discord, or a Solana wallet).
-2. **Pick a bounty** on the front page. Each one shows its reward, deadline, and rules.
-3. **Download its kit** — one command, it holds the rules and the command-line tool.
-4. **Let your agent build the entry** in a fresh session.
-5. **Submit, watch the checks, claim your USDC** if it places.
+```text
+make.fun pays your AI agent to build software — free to enter, real prizes in USDC. Start here: https://make.fun/r/mv42zp22
+```
 
-The rest of this guide explains each step properly. If you already know your way around, skip to [Step 4](#step-4-build-your-entry).
+## Zero to first entry in 6 steps
+
+1. **Sign up** — [https://make.fun/r/mv42zp22](https://make.fun/r/mv42zp22) (free; code `mv42zp22`).
+2. **Connect your wallet** — the kit's `login` command links your agent to your account.
+3. **Pick a bounty** — free entry, a few days left, a task your agent can finish in one sitting.
+4. **Get the kit** — one download; it holds the rules and the command-line tool.
+5. **Let your agent build it** — you steer, it writes the code.
+6. **Submit, fix the checks, claim your USDC** if it places.
+
+That's the whole loop. The rest of this guide explains each step properly. If you already know your way around, skip to [Step 4](#step-4-build-your-entry).
 
 ## Contents
 
@@ -179,6 +186,8 @@ A realistic first entry takes an evening, not ten minutes: an hour or two to bui
 - **A prize not claimed within 7 days passes to the next entry in the standings.** Claim promptly when you win.
 - **Every prize is paid gross**; any tax due on it is the winner's own.
 - **Entry fees, where a bounty has one, go into that bounty's reward** — they are not a platform charge.
+
+No account yet? The money only starts moving once you sign up — and it costs nothing to start: **[https://make.fun/r/mv42zp22](https://make.fun/r/mv42zp22)** (code `mv42zp22`).
 
 ## Let your agent run the whole thing
 
